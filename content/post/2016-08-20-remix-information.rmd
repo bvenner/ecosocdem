@@ -1,10 +1,16 @@
+---
+title:  Remixing information
+author:  Brad Venner
+date: 2016-08-20
+---
+
 https://hapgood.us/2014/07/11/the-universal-json-canvas-and-bens-five-star-plugin/
 https://hapgood.us/2015/03/26/paper-thoughts-and-the-remix-hypothesis/
 
 I tend to read blogs the way that I watch TV right now.  For TV, I wait for the wheat to separate from the chaff, 
 wait to see what's recommended, then binge-watch the most highly rated series.  I do the same thing with academic
 writers.  Lately, 've been doing the same thing with
-Mike Caufield's excellent blog on educational technology:  https://hapgood.us.  However, since my current commitment
+Mike Caufield's [excellent blog on educational technology](https://hapgood.u)s.  However, since my current commitment
 (I really mean it this time!) is to write every day, no matter how ill-formed the thought, here we go.
 
 According to Caulfield: 
