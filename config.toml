@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Semiotics, Statistics and All That"
+title = "Ecology, Society, Semiotics"
 theme = "hugo-lithium-theme"
 googleAnalytics = ""
 disqusShortname = ""
@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://twitter.com/bvenner"
 
 [params]
-    description = "A website built through Hugo and blogdown."
+    description = "Ecology, Society, Semiotics"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
