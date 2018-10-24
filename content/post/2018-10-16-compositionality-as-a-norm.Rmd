@@ -13,8 +13,8 @@ Zalamea's work points to the need to consider synthesis as more than simply the 
 
 As always, the first stop for any general question like this should be Wikipedia.  There, the principle of compositionality is attributed to Frege, with an assist from Boole.      
 
-One of Spivak's favorite examples of compositionality is neurons, where the resulting network has the emergent quality of organism and eventually consciousness.  But consciousness is usually considered an emergent property, not simply the result of greater complication.  The principles of "neural composition" are the same between a human and a slime mold, but there   
+One of Spivak's favorite examples of compositionality is neurons, where the resulting network has the emergent quality of organism and eventually consciousness.  But consciousness is usually considered an emergent property, not simply the result of greater complication.  The principles of "neural composition" are the same between a human and a slug, but there are clearly differences in their brains, no?  How does compositionality explain this sort of emergence?    
 
 Champagne points to the ability for individual elements of a sign relation to switch roles, such as an interpretant being used as a sign vehicle.  However, I'm not sure that this notion holds for an object per se.  Champagne's modal interpretation bears some relationship to Zalamea's, although Zalamea views modality as only one aspect of the continuum.
 
-Semiosis has some notion of invariant - the relationship between the interpretant sign and the original sign, where the relationship with the object is preserved, but also the notion of dynamics, where the interpretant sign is different than the sign vehicle.   
+Semiosis has a notion of invariant - the relationship between the interpretant sign and the original sign, where the relationship with the object is preserved, but also a notion of dynamics, where the interpretant sign is different than the sign vehicle.   
