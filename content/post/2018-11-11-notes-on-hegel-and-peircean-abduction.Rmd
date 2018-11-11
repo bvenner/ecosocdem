@@ -1,0 +1,19 @@
+---
+title: Notes on Hegel and Peircean Abduction
+author: Brad Venner
+date: '2018-11-11'
+slug: notes-on-hegel-and-peircean-abduction
+categories: []
+tags: []
+---
+[@redding:2003:hegel]
+
+From the title, this paper should be central to my project.
+
+As a quick review, my working hypothesis is that modal homotopy type theory can be used to better understand semiotics, a project I've tagged as 'categorical semiotics' (in keeping with the term 'categorical logic' for the larger project of applying category theory to logic).  Since Schneiber has extensively developed the relation between MoHOTT and Hegel, my main project is to relate Peirce and MoHOTT.  
+
+One pathway to this is to relate Peirce and Hegel.  That is the subject of this paper.  There are other more direct pathways between MoHOTT and Peirce.  Zalamea's work on intuitionistic models of the existential graphs is an obvious one [zalamea:2003:peirce].  Caterina and Gangle are another [@caterina:2016:iconicity].  
+
+One detail I really need to work out is the relation between the pair limit/colimit and abduction/induction.  From a formal perspective, repeating the syllogistic analysis of Peirce and purely on the shapes, the inference of a "minor premise" would be colimit and the inference of a "major premise"" would be limit.  This can be seen in the simplest cases of limits and colimits - terminal objects and initial objects.  In the latter, the missing arrow between Y and 1 has a the shape of "major premise", while in the latter, the missing arrow between 0 and Y has the shape of a "minor premise".
+
+A related analogy that Peirce makes is firstness as initial, and secondness as final.  I need to find the reference to this discussion again!
