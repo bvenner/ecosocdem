@@ -1,0 +1,12 @@
+---
+title: Term and Propositional Logic
+author: Bradley Venner
+date: '2018-12-20'
+slug: term-and-propositional-logic
+categories: []
+tags: []
+---
+
+Propositional logic is also known as Stoic logic, while term logic is also known as Aristotelian logic.
+
+Schneider develops his modal homotopy type theory interpretation of Hegel's "objective logic".  Since I'm looking for the best mapping with semiotics, it seems like the 
