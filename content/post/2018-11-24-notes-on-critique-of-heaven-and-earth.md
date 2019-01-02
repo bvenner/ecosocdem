@@ -30,5 +30,3 @@ Hegel sketches the role of the philosphy of law as reconciling the Augustinian d
 Marx perceives that Hegel's solution of identifying the concept of the state, as the reconciliation of heaven and earth, with the actual existing Germanic state, as problematic.  van Leeuwen's sketch of this process is extremely confusing, but he claims that Marx saw the problem as essentially a logical problem.  
 
 Note that Saito's book [*Karl Marx's Ecosocialism:  Capital, Nature and the Unfinished Critique of Political Economy*](https://monthlyreview.org/product/karl_marxs_ecosocialism/) considers the same period of time in Marx's writing as van Leeuven's, and this book should be next on my 'agapistic ecosocialism' reading list.
-
-  
