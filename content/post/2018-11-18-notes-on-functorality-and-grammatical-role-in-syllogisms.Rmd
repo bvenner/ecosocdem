@@ -25,4 +25,9 @@ In "Relations among kinds" (section 2.3), Reyes notes that the relationship betw
 
 Some of Reyes examples of 'bad syllogisms' remind me of Goguen's examples from algebraic semiotics.  This might be a good next paper to re-examine.
 
-Reyes solution of a nominal category mapping to a kinds category K is very similar to the categorical informatics solution of a schema mapping to a set.  
+Reyes solution of a nominal category mapping to a kinds category K is very similar to the categorical informatics solution of a schema mapping to a set.  It also reminds me of the 'categorical knowledge representation' of Patterson (since these two are strongly related).  
+
+I found the long middle section quite hard to follow, and it appears to rely upon first-order logic in order to make conclusions.  It also seems to rely upon the notion of 'colimit of a functor', which is not defined in nLab.  Scheider's dependent types approach may actually be easier to follow.
+
+This intepretation did not seem to distinguish the three figures of the syllogism, so it's not intuitively obvious how this relates to Peirce's and Hegel's distinction of these types of reasonings, as developed by Redding [@redding:]
+
