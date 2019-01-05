@@ -1,0 +1,40 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Ecology, Society, Semiotics"
+theme = "hugo-tranquilpeak-theme"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/bvenner"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/bvenner"
+
+[params]
+    description = "Ecology, Society, Semiotics"
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
