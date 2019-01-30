@@ -1,3 +1,6 @@
 [submodule "themes/hugo-tranquilpeak-theme"]
 	path = themes/hugo-tranquilpeak-theme
 	url = git@github.com:bvenner/hugo-tranquilpeak-theme.git
+[submodule "themes/hugo-lithium-theme"]
+	path = themes/hugo-lithium-theme
+	url = git@github.com:bvenner/hugo-lithium-theme.git

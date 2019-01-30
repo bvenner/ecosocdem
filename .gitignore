@@ -1,7 +1,6 @@
 public/
 
 # History files
-.Rhistory
 .Rapp.history
 
 # Session Data files

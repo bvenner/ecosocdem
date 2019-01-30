@@ -1,17 +1,3 @@
-# Tranquilpeak
-# Version : 0.4.4-BETA
-# Author : Thibaud Leprêtre
-
-# I STRONGLY recommend you to use a CDN to speed up loading of pages.
-# There is many free CDN like Cloudinary or you can also use indirectly
-# by using services like Google Photos.
-
-# If you want to store images yourself, please read this guidelines:
-# For users, if you only use this theme, put your images directly in `source/assets/images` folder
-# But if you want to add local images, you can put your images directly in `source/assets/images` folder
-# For developpers, if you modify this theme, put your images in `source/images` folder and
-# use grunt task `build` to synchronize assets
-
 baseURL = "/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
@@ -19,11 +5,12 @@ title = "Ecology, Society, Semiotics"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
-paginate = 7
+ignoreFiles = ["\\.Rmd$", "\\.rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+paginate = 5
 canonifyurls = true
 
 [permalinks]
-  post = "/:year/:month/:day/:slug/"
+  post = "/:year/:month/:slug/"
 
 [taxonomies]
   tag = "tags"
@@ -32,14 +19,14 @@ canonifyurls = true
 
 [author]
   name = "Brad Venner"
-  bio = "Super bio with markdown support **COOL**"
+  bio = ""
   job = "Statistician"
   location = "United States"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   gravatarEmail = "brad@vennerconsulting.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "BradVenner"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -58,12 +45,12 @@ canonifyurls = true
   name = "Categories"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
   url = "/categories"
-[[menu.main]]
-  weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+# [[menu.main]]
+#  weight = 3
+#  identifier = "tags"
+#  name = "Tags"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+#  url = "/tags"
 [[menu.main]]
   weight = 4
   identifier = "archives"
@@ -181,19 +168,9 @@ canonifyurls = true
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
   [[params.sharingOptions]]
-    name = "Facebook"
-    icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
-
-  [[params.sharingOptions]]
     name = "Twitter"
     icon = "fa-twitter"
     url = "https://twitter.com/intent/tweet?text=%s"
-
-  [[params.sharingOptions]]
-    name = "Google+"
-    icon = "fa-google-plus"
-    url = "https://plus.google.com/share?url=%s"
 
   [params.header.rightLink]
     class = ""
