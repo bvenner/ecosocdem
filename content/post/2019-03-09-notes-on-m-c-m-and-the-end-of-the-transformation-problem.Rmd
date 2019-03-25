@@ -1,0 +1,13 @@
+---
+title: Notes on M-C-M and the End of the Transformation Problem
+author: Brad Venner
+date: '2019-03-09'
+slug: notes-on-m-c-m-and-the-end-of-the-transformation-problem
+categories: []
+tags: []
+---
+
+Fred Mosely and Tony Smith have worked together on several projects, and are (were?) both part of the International Symposium on Marxian Theory.  I was looking to order some of Smith's books on Haymarket and took a look at Mosely's author page, with included a recent book on *Money and Totality*'  The present paper [@mosely:2015:m-c-m] is an introduction to that book.  I have ordered the book.  Smith has also written books on systematic dialectics, lean production and globalization, all areas that I would like to better understand.
+
+Mosely asserts that most discussions of the transformation problem misunderstand Marx.  He posits that Marx proposes two inter-related phases - production and distribution of surplus value.  Surplus value is produced by labor (the labor theory of value) and distributed to individual capitalists (prices of production).  There is a 'pendular' analytic/synthetic process.  
+
