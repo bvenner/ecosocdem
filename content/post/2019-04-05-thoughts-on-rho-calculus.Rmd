@@ -1,0 +1,8 @@
+---
+title: Thoughts on Rho Calculus
+author: Bradley Venner
+date: '2019-04-05'
+slug: thoughts-on-rho-calculus
+categories: []
+tags: []
+---
