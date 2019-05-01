@@ -43,4 +43,6 @@ So as usual, when I blunder into a new field, dimensional analysis is huge!
 
 So, a preliminary theory is that dimensional analysis is a necessary but not sufficient condition for metrology, so categorical metrology can begin with dimensional analysis but not end there.  Atkey will be a key reference, but there is a lot to do.  Democratic planning will have to wrestle with physcial, chemical, psychological, social measurement.  
 
-As an aside, is Hegel's quantity, quality, measure 'lifting' developed within Schneider's MoHoTT -> Hegel map? 
+As an aside, is Hegel's quantity, quality, measure 'lifting' developed within Schneider's MoHoTT -> Hegel map?
+
+An additional impetus to the development of categorical metrology is the recent development of a masters program at Georgetown on 'Environmental Measurement and Policy'.  This seems like an interesting area to look at, and perhaps develop a particular course on.  Any reasonable definition of environmental metrology must include the inter-action between man and his environment, and thus involve the role of measurement as not simply reflective but also constructive.    
