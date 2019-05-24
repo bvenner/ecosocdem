@@ -1,0 +1,21 @@
+---
+title: Thoughts on probability, type theory, category theory
+author: Bradley Venner
+date: '2019-05-24'
+slug: thoughts-on-probability-type-theory-category-theory
+categories: []
+tags: []
+---
+What about a course on "Probability and Type Theory", which would concentrate on probability, or "Data Science and Type Theory", which could include databases and measurements.  
+
+There is a notion of a monad as a unifying abstraction over various theories of uncertainty.  This notion is explicitly discussed in Ianescu's work on sequential decision theory in Idris.  It's hinted at in Elliott's paper on Computation in Categories.  
+
+The probability monad is developed in some detail in Scibor's papers on MondadBayes.  Scibor connects the probability monad to a compositional inference model, which is not a monad.
+
+Jacob's developement of state transformers, predicate transformers reminds me of both Chu spaces and Peirce's universe/category distinction.  In Jacob's development, probability, which is renamed validity, is a relationship between the state and predicate.  Jacob's has also done work with various probability monads, and there is a relationship between channels and the Kleisi category of a monad.
+
+The hard evidence/soft evidence distinction could be used in measurement uncertainty, where the Type A/Type B distinction is crying out for a more rigorous treatment.
+
+Is there a more general relationship between the probability monad and the 'possibility monad', as discussed by Corfield in homotopy type theory.  
+
+Jacobs refers to the 'double dual' form of the monad, which is Avery's double dualization.  Avery includes a citation to an earlier paper by Jacobs.  Avery also includes citations to Koch.  Scibor refers to Koch as the founder of 'synthetic measure theory.'  So all these approaches are related to each other.   
