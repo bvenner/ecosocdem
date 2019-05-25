@@ -1,0 +1,22 @@
+---
+title: "Juliana versus the United States"
+author: "Nicholas Venner"
+date: "April 8, 2019"
+output: 
+revealjs::revealjs_presentation:
+    theme: simple
+    highlight: haddock
+    center: true
+    transition: slide
+    css:  reveal.css
+    self_contained: false
+---
+
+#Section Header
+If I type things here they will not show up
+
+##Slide 1
+text
+
+#Slide 2
+text
