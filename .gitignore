@@ -5,6 +5,7 @@ public/
 
 # Session Data files
 .RData
+.Rhistory
 
 # Example code in package build process
 *-Ex.R
