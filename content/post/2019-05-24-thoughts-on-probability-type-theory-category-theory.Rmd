@@ -6,7 +6,7 @@ slug: thoughts-on-probability-type-theory-category-theory
 categories: []
 tags: []
 ---
-What about a course on "Probability and Type Theory", which would concentrate on probability, or "Data Science and Type Theory", which could include databases and measurements.  
+What about a course on "Probability and Type Theory", which would concentrate on probability, or "Data Science and Type Theory", which could include databases and measurements.  Or a more practical approach could be "Haskell for Data Science," which could be based on some of the interesting category-theoretic developments discussed below but also consider the practical needs of data science.
 
 There is a notion of a monad as a unifying abstraction over various theories of uncertainty.  This notion is explicitly discussed in Ianescu's work on sequential decision theory in Idris.  It's hinted at in Elliott's paper on Computation in Categories.  
 
