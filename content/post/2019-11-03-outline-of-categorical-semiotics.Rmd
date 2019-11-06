@@ -1,0 +1,18 @@
+---
+title: Outline of categorical semiotics
+author: Brad Venner
+date: '2019-11-03'
+slug: outline-of-categorical-semiotics
+categories: []
+tags: []
+---
+
+# categorical semiotics as speculative grammar
+
+# sign, object, interpretant
+
+This section will re-derive the main results of the 66 classes of signs from the viewpoint of morphisms within category of partial orders.  
+
+Intepretation as partial order.  Discuss Peirce's late work three-valued logic. 
+
+Compare to modal intepretation of being-nothing-becoming in Schneider's work.  Discuss relationship between 

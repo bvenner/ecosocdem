@@ -3,8 +3,8 @@ title: Thoughts-on-real-utopias
 author: Bradley Venner
 date: '2019-10-22'
 slug: thoughts-on-real-utopias
-categories: [pragmatic-ecosocialism]
-tags: []
+categories: [thoughts]
+tags: [pragmatic-ecosocialism]
 ---
 
 After the first day of the fiercevulnerability workshop, I read Eric Olin Wright's 2015 article on Jacobin outlining his approach to anti-capitalism [@wright:2015:anticapitalist].  Wright used the old chestnut of a two-by-two table to classify four approaches to anti-capitalism, and placed his 'real utopias' idea on the diagonal of the table, unifying 'reforming capitalism' and 'eroding capitalism'.  The two axes were 'primary target of strategy' and 'goal of strategy'.  Reforming capitalism is classified as a 'macro-political' target and a 'neutralizing harms' goal.  'Eroding capitalism' is classified as a 'micro-social' target and a 'transcending structures' goal.
