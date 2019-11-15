@@ -1,0 +1,16 @@
+---
+title: Thoughts on formal pragmatics
+author: Bradley Venner
+date: '2019-11-15'
+slug: thoughts-on-formal-pragmatics
+categories: []
+tags: []
+---
+
+Given the development of categorical syntax and semantics, one way to present categorical semiotics would be the missing category of 'categorical pragmatics'.  Although it is ironic that Morris' terminology is well known, educators need to start where there audience is, right?  
+
+Since these would all be done formally, Peirce would place all three within 'speculative grammar.'  
+
+Categorical pragmatics would consider the relationship between a sign and it's interpetant sign.  Belucci showed that Peirce's later work on speculative grammar contained a precursor to speech-act theory.  So one goal of categorical pragmatics would be to provide some mathematics behind speech act theory.
+
+One important philosophical precursor for such an effort would be Habermas' formal pragmatics.  Strydom points to Habermas' development of formal pragmatics in various papers.  I know that Habermas was strongly influenced by speech act theory, although I'm not sure to what extent he was influenced by Peirce's developments.  
