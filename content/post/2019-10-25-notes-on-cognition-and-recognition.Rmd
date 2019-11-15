@@ -3,8 +3,8 @@ title: Notes on Cognition and Recognition
 author: Bradley Venner
 date: '2019-10-25'
 slug: notes-on-cognition-and-recognition
-categories: []
-tags: []
+categories: [notes]
+tags: [categorical-semiotics,cognition]
 ---
 
 Piet Strydom critically reviews Honneth's Tanner Lectures and develops their notion of cognition as prior to recognition, playing off the construction of the words.

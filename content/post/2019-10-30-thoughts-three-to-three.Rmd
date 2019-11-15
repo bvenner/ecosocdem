@@ -1,0 +1,14 @@
+---
+title: Thoughts on three to three
+author: Brad Venner
+date: '2019-10-30'
+slug: thoughts-on-product-and-function
+categories: [thoughts]
+tags: [categorical-semiotics]
+---
+
+There are 10 order-preserving morphisms from the ordered category *three* to itself.  Do these correspond to Peirce's 10 classes of signs?
+
+To make the correpondence to category theory more obvious, the three ordered objects are $0, *, 1$.  As a category, $1$ is the terminal object, $0$ is the initial object, and $*$ is the mediate object.  In categorical dialectics, these correspond to being, nothing, and becoming, with the initial and terminal objects also corresponding to a monad/comonad pair.
+
+The ordered domain and codomain play different roles.
