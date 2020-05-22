@@ -7,15 +7,11 @@ categories: []
 tags: []
 ---
 
-David Corfield is a co-founder of the ncatlab blog and a philosopher of mathematics at the University of Kent.  He has written several papers on the application of homotopy type theory to natural language.  He also proposed the application of modal homotopy type theory to the analysis of Peirce's gamma graphs in a blog comment, so I could credit him as the founder of 'categorical semiotics'.  
+David Corfield is a co-founder of the ncatlab blog and a philosopher of mathematics at the University of Kent.  He has written several papers on the application of homotopy type theory to natural language.  He also proposed the application of modal homotopy type theory to the analysis of Peirce's gamma graphs in a blog comment, so I could credit him as providing motivation for an approach to 'categorical semiotics' based on modal homotopy type theory.  
 
 This paper [@corfield:2016:homotopy] considers the 'vertical unity' of concepts in mathematics.  Although he does not mention Peirce, this notion of 'vertical unity' is a key concept in Peirce's semiotics.  Ideas such as the 'thirdness of firstness' are implicitly vertical, as higher signs preserve the previous aspects of earlier signs.
 
-> What emerges from these lines of thought is that the lower levels of homotopy
-type theory have contained within them: propositional logic, (typed) predicate
-logic and a structural type theory. Coming from a tradition of constructive type
-theory, one needs to add classical axioms if these are required, such as various
-forms of excluded middle.
+> What emerges from these lines of thought is that the lower levels of homotopy type theory have contained within them: propositional logic, (typed) predicate logic and a structural type theory. Coming from a tradition of constructive type theory, one needs to add classical axioms if these are required, such as various forms of excluded middle.
 
 Any resemblance to alpha, beta, gamma is purely coincidental.
 
@@ -29,12 +25,7 @@ The paper outlines very nicely, in a way I haven't encountered before, how 'acti
 
 ## Spaces
 
-> As I explain in Corfield (forthcoming), however intricate the `spaces' of current
-mathematics, we never leave behind the essential idea of constructing them
-by gluing together specified model spaces.  This is recognized by the term `atlas'
-used for a collection of `charts' which cover a manifold $\ldots$ With the addition
-of the modalities, homotopy type theory can express this gluing process
-straightforwardly $\ldots$
+> As I explain in Corfield (forthcoming), however intricate the `spaces' of current mathematics, we never leave behind the essential idea of constructing them by gluing together specified model spaces.  This is recognized by the term `atlas' used for a collection of `charts' which cover a manifold $\ldots$ With the addition of the modalities, homotopy type theory can express this gluing process straightforwardly $\ldots$
 
 The resemblance to Peirce's notion of multiple sheets in the gamma graphs is uncanny.
 

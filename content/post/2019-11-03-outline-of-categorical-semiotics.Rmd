@@ -26,7 +26,7 @@ This section will be focused on developing a category theoretic approach to Peir
 
 This section will re-derive the main results of the 66 classes of signs from the viewpoint of morphisms within category of partial orders.  
 
-Another possible structure is the idea of symmetric monoidal categories enriched in posets (i.e. order-enriched), which was discussed by Drew Moshier at the ACT conference.  
+Another possible structure is the idea of symmetric monoidal categories enriched in posets (i.e. order-enriched), which was discussed by Drew Moshier at the ACT conference.
 
 Intepretation as partial order.  Discuss Peirce's late work three-valued logic.  Close relationship between modal ideas and three-valued logic.
 
@@ -41,7 +41,5 @@ Fibrational semantics of the syllogism.  General notion of fibration.
 # alpha, beta, gamma
 
 Existential graphs.  State of modal graphs.  Categorical interpretation of beta existential graphs.  Meilles work on Peirce-like beta graphs.
-
-
 
 # composition, extension, lifting
