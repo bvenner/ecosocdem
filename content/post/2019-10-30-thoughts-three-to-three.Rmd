@@ -9,7 +9,7 @@ tags: [categorical-semiotics]
 
 There are 10 order-preserving morphisms from the ordered category *three* to itself.  Do these correspond to Peirce's 10 classes of signs?
 
-Note:  I have convinced myself that this is correct, and quite obvious, and now the next challenge is to derive the 66 classes of signs.  To further this understanding I am reviewing Jappy's open access text on the philosophy of representation.  His book is organized so that Peirce's 1903 theory (the 10 classes of signs) is chapter 1.
+Note:  I have convinced myself that this is correct, and quite obvious, and now the next challenge is to derive the 66 classes of signs.  To further this understanding I am reviewing Jappy's open access text on the philosophy of representation.  His book is organized so that Peirce's 1903 theory (the 10 classes of signs) is chapter 1, and he derives ...
 
 To make the correpondence to category theory more obvious, the three ordered objects are $0, *, 1$.  As a category, $1$ is the terminal object, $0$ is the initial object, and $*$ is the mediate object.
 
