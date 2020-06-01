@@ -3,8 +3,6 @@ title: Notes on Aquinas in the Development of Semiotics
 author: Brad Venner
 date: '2018-12-04'
 slug: notes-on-aquinas-in-the-development-of-semiotics
-categories: []
-tags: []
 ---
 
 Deely marks the importance of Aquinas' thought in the development of Latin thought [deely:2004:role], as a midpoint in the development that was crucial to Poinsot's development of the doctrine of signs.

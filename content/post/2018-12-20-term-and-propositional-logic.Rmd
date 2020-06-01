@@ -3,15 +3,13 @@ title: Term and Propositional Logic
 author: Bradley Venner
 date: '2018-12-20'
 slug: term-and-propositional-logic
-categories: []
-tags: []
 ---
 
 Propositional logic is also known as Stoic logic, while term logic is also known as Aristotelian logic.
 
 Schneider develops his modal homotopy type theory interpretation of Hegel's "objective logic".  Since I'm looking for the best mapping with semiotics, it seems like a better strategy would be to begin with Hegel's 'subjective' logic.  
 
-According to Redding, 
+According to Redding,
 
 > At the heart of Hegel's account of judgement is a distinction between two judgement forms with logically different structures.  Hegel calls these judgements of existence (*Dasein*) and judgements of reflection, but he also distinguishes them as "qualitative" and "quantitative" judgements and as "judgements of inherence" and "judgements of subsumption" (*Science of Logic, 557 & 570; W, 6.311 & 328) [@redding:2014:role, p. 9]
 
@@ -25,6 +23,6 @@ These ideas look very much like categorical product and coproduct, respectively.
 
 Redding goes on to say:
 
-> Using a distinction from the Medievals, we can describe the first type of judgments as de re (about things) and the second as de dicto (about sayings). 
+> Using a distinction from the Medievals, we can describe the first type of judgments as de re (about things) and the second as de dicto (about sayings).
 
 This echos Deely's emphasis on the scholastic distinction between *ens real* and *ens rationis*.  

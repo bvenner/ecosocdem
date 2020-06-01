@@ -3,8 +3,6 @@ title: Notes on A category-theoretic approach to agent interaction
 author: Brad Venner
 date: '2019-11-11'
 slug: notes-on-a-category-theoretic-approach-to-agent-interaction
-categories: []
-tags: []
 ---
 
 David Spivak's brilliant grant proposal sketches a categorical pragmatics, defined as a multi-agent system viewed from the abstract perspective of category theory.  The subtitle is *information, communication, planning and learning*.  If realized, this proposal would help achieve the distributed REA vision articulated in (value flows)[https://valueflo.ws].  There are certainly components in the proposal that could be directly appropriated.  Others seem like they need a little work.  

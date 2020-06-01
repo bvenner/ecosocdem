@@ -3,8 +3,6 @@ title: Notes-computational-theory-evidence-based-reasoning
 author: Bradley Venner
 date: '2019-10-17'
 slug: notes-computational-theory-evidence-based-reasoning
-categories: []
-tags: []
 ---
 
 Tecuci et. al. have made a serious attempt to develop a general approach to evidence-based reasoning based on Schum's work.  These notes are on their latest work [@tecuci:2019:computational].
@@ -17,6 +15,5 @@ Adjoint triple from [Nlab](https://ncatlab.org/nlab/show/adjoint+triple):  An ad
 
 The notion of a general theory of knowledge, which must underly any theory of inquiry (as knowledge change), or what Peirce called 'logical critic', has been approached in category theory by Patterson, who proposed a variety of categorical knowledge representation formalisms based on different categorical notions.  Patterson's work used the bicategory of relations, but points to a larger framework.  As an aside, could the monoidal functor approach as a box developed by Meilles be applied as a knowledge representation framework a la the existential graphs.
 
-An interruption:  Nicholas Rescher wrote an introductory book on epistemology and two books on value 
+An interruption:  Nicholas Rescher wrote an introductory book on epistemology and two books on value
 theory.  
-

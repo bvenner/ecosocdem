@@ -3,8 +3,6 @@ title: Does semiotics transcend the distinction between foundational and anti-fo
 author: Bradley Venner
 date: '2018-12-07'
 slug: does-semiotics-transcend-the-distinction-between-foundational-and-anti-foundational
-categories: []
-tags: []
 ---
 
 Schulman's introduction to homotopy type theory discusses how univalence forces intuitionistic type theory into a foundational mode.

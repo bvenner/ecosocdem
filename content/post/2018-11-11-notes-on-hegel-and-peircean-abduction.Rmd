@@ -3,8 +3,6 @@ title: Notes on Hegel and Peircean Abduction
 author: Brad Venner
 date: '2018-11-11'
 slug: notes-on-hegel-and-peircean-abduction
-categories: []
-tags: []
 ---
 # Notes on [@redding:2003:hegel]
 
@@ -29,6 +27,6 @@ But what is 'reciprocal recognition' except agape, and what is this common conte
 
 Redding's identification of reasoning by analogy with abduction reminds me of Sowa's work on analogies.
 
-Redding says that C.I. Lewis was a student of Josiah Royce, which probably explains Lewis' interest in modal logic. 
+Redding says that C.I. Lewis was a student of Josiah Royce, which probably explains Lewis' interest in modal logic.
 
-Redding discusses the role of intensionality within modal logic and the resistance within this tradition to extensional readings of logic promoted by analytic philosophy.  He cited John N. Findlay as a bridge figure, having worked earlier 
+Redding discusses the role of intensionality within modal logic and the resistance within this tradition to extensional readings of logic promoted by analytic philosophy.  He cited John N. Findlay as a bridge figure, having worked earlier

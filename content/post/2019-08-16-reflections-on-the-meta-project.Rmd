@@ -1,10 +1,8 @@
 ---
-title: Reflections on the meta-project
+title: Reflections on the meta-project *Ecology, Society, Semiotics*
 author: Bradley Venner
 date: '2019-08-16'
 slug: reflections-on-the-meta-project
-categories: []
-tags: []
 ---
 
 I've often thought of my meta-project Ecology, Society, Semiotics as corresponding to the three-fold division of human understanding proposed by Locke.  But my three subprojects - categorical semiotics, theory of value, and pragmatic ecosocialism - appear to more closely correspond to Peirce's divisions of logic - speculative grammar, logical critic and theoretical rhetoric.  
@@ -18,4 +16,3 @@ Another reason is my dislike of writing - I've simply not been willing to spend 
 Another possibility is the questionable relevance of the project in a post-Trump world.  It's been easy to get distracted by Trump news, but also the need for subtle improvements in logic seem less critical than overcoming the brutal nihilism that has infected this country.  The need is for action, not for reflection.   
 
 A related possibility is the questionable relevance of the project to climate change.  Although I believe that pragmatic ecosocialism is a good vehicle for thinking about the problem, the urgency of the issue seems a poor match to reflection.
-

@@ -3,8 +3,6 @@ title: Notes on homotopy type theory and the vertical unity of concepts in mathe
 author: Bradley Venner
 date: '2019-05-03'
 slug: notes-on-homotopy-type-theory-and-the-vertical-unity-of-concepts-in-mathematics
-categories: []
-tags: []
 ---
 
 David Corfield is a co-founder of the ncatlab blog and a philosopher of mathematics at the University of Kent.  He has written several papers on the application of homotopy type theory to natural language.  He also proposed the application of modal homotopy type theory to the analysis of Peirce's gamma graphs in a blog comment, so I could credit him as providing motivation for an approach to 'categorical semiotics' based on modal homotopy type theory.  

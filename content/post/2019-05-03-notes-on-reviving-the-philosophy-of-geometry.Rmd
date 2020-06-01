@@ -3,8 +3,6 @@ title: Notes on reviving the philosophy of geometry
 author: Bradley Venner
 date: '2019-05-03'
 slug: notes-on-reviving-the-philosophy-of-geometry
-categories: []
-tags: []
 ---
 
 Another paper by David Corfield.

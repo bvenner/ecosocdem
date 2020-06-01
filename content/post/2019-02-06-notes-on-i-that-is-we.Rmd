@@ -3,15 +3,13 @@ title: Notes on I that is We
 author: Brad Venner
 date: '2019-02-06'
 slug: notes-on-i-that-is-we
-categories: []
-tags: []
 ---
 
 # Hegel on Social Ontology and the Possibility of Pathology
 
 > The paper’s primary focus is the type of social pathology in which human subjects fail to ‘endure’, or negotiate, the fundamental opposition between spiritual and merely animal life or, in other words, fail to unite their ends as living beings with the loftier end of freedom.
 
-Peirce's early development of his categories labeled them "I-It-Thou", which stressed the inter-subjective dimension.  He later generalized these names to their more abstract notions.  This fits Deely's explanation of relation, in which a relation in general may be supra-subjective, with intra-subjective being one of its modes of being. 
+Peirce's early development of his categories labeled them "I-It-Thou", which stressed the inter-subjective dimension.  He later generalized these names to their more abstract notions.  This fits Deely's explanation of relation, in which a relation in general may be supra-subjective, with intra-subjective being one of its modes of being.
 
 Perhaps entitling my project as 'categorical dialectics and semiotics' would avoid giving primacy to Peirce or Hegel.  A good example could be Hegelian Marxism, where a number of different mappings between Hegel and Marx have been proposed.  
 

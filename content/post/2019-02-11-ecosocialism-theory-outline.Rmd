@@ -3,8 +3,6 @@ title: Ecosocialism Theory Outline
 author: Brad Venner
 date: '2019-02-11'
 slug: ecosocialism-theory-outline
-categories: []
-tags: []
 ---
 
 # What is Capitalism?
@@ -25,8 +23,6 @@ The generalization of ecological production under socialist conditions can provi
 
 ## Belem Ecosocialist Declaration, 2007
 
-Ecosocialism is grounded in a transformed economy founded on the non-monetary values of social justice and ecological balance. It criticizes both capitalist “market ecology” and productivist socialism, which ignored the earth’s equilibrium and limits. 
+Ecosocialism is grounded in a transformed economy founded on the non-monetary values of social justice and ecological balance. It criticizes both capitalist “market ecology” and productivist socialism, which ignored the earth’s equilibrium and limits.
 
 ## 18 Theses on Ecosocialism, 2013
-
-

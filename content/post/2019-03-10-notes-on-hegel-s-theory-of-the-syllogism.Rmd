@@ -3,8 +3,6 @@ title: notes on hegel's theory of the syllogism
 author: Brad Venner
 date: '2019-03-10'
 slug: notes-on-hegel-s-theory-of-the-syllogism
-categories: []
-tags: []
 ---
 
 This is an older paper from Tony Smith [@smith:1988:hegel-s], which discusses Hegel's theory of the syllogism and it's relevance for Marxism.  It is a natural complement to Redding's paper comparing Peirce and Hegel's work [@redding:2003:hegel].

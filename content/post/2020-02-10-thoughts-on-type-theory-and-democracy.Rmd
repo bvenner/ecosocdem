@@ -3,8 +3,6 @@ title: Thoughts on Type Theory and Democracy
 author: Bradley Venner
 date: '2020-02-10'
 slug: thoughts-on-type-theory-and-democracy
-categories: []
-tags: []
 ---
 
 A couple middle-of-the-night thoughts that I don't want to forget.

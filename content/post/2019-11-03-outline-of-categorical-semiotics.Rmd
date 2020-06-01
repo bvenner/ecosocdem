@@ -3,8 +3,6 @@ title: Outline of categorical semiotics
 author: Brad Venner
 date: '2019-11-03'
 slug: outline-of-categorical-semiotics
-categories: []
-tags: []
 ---
 
 # syntax, semantics, pragmatics
@@ -36,7 +34,7 @@ Compare to modal intepretation of being-nothing-becoming in Schneider's work.
 
 Peirce's analysis of the three figures of the syllogism.
 
-Fibrational semantics of the syllogism.  General notion of fibration. 
+Fibrational semantics of the syllogism.  General notion of fibration.
 
 # alpha, beta, gamma
 

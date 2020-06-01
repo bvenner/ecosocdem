@@ -3,8 +3,6 @@ title: Notes on the economic calculation debate
 author: Brad Venner
 date: '2019-02-20'
 slug: notes-on-the-economic-calculation-debate
-categories: []
-tags: []
 ---
 
 This paper, by Fikret Adaman and Pat Devine [@adaman:1996:economic], considers the possibility of taking seriously the Austrian model of the market as a discovery and learning 'mechanism'.  This emphasis on learning should be a natural fit for a Peircean theory, and there are hints that Hayek took Peirce relatively seriously.

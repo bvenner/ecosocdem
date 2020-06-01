@@ -3,8 +3,6 @@ title: Semiotics and socialism
 author: Bradley Venner
 date: '2018-12-11'
 slug: semiotics-and-socialism
-categories: []
-tags: []
 ---
 
 Marie asked me on a walk what led me to socialism, and whether Deely had an impact on this evolution.  I answered that Deely did not really consider politics and that I assumed that he was politically conservative.  However, this is only a partial answer.  It is true that Deely does not write much on social philosophy, and that I have felt the lack of a clear path between semiotics and climate change, and have struggled with why I continue working in this area when the pratical need is so great.  But ecosocialism focuses on overcoming the "nature/culture" split, and Saito's *Karl Marx's Ecosocialism* [@saito:2018:karl] develops the centrality of this theme in Marx's work.  But this is also a central theme in Deely - the ability of a sign to transcend the division between natural signs and cultural signs.  But this invites better understanding the relationship between Hegel, Marx and Peirce, and the potential for MoHoTT to help understand their projects (with a dose of Poinsot thrown in).

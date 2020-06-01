@@ -3,8 +3,6 @@ title: Thoughts on Pragmatism and Critical Theory
 author: Brad Venner
 date: '2019-01-17'
 slug: thoughts-on-pragmatism-and-critical-theory
-categories: []
-tags: []
 ---
 
 Weaving Two Left-Hegelian Threads
@@ -21,7 +19,7 @@ Marxism and anarchism as two violent ideologies that arose from left hegelian th
 
 1871 Paris Commune as ‘blood soaked’
 
-Bakunin as prescient critic of ‘dictatorship of the proletariat’ 
+Bakunin as prescient critic of ‘dictatorship of the proletariat’
 
 State socialism
 
@@ -29,10 +27,10 @@ MLK’s non-violent philosophy as a variety of pragmatism
 
 From this viewpoint, there is a certain irony in distinguishing non-violence used strategically as “pragmatic non-violence”
 
-Hegel->Peirce->Royce->Thurman->King 
+Hegel->Peirce->Royce->Thurman->King
 
 
-American pragmatism 
+American pragmatism
 MLK as an inheritor of the left-Hegelian thought
 
 Josiah Royce

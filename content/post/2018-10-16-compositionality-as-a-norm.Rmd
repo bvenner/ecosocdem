@@ -3,8 +3,6 @@ title: Compositionality as a norm
 author: Bradley Venner
 date: '2018-10-16'
 slug: compositionality-as-a-norm
-categories: []
-tags: []
 ---
 
 I have two essays open on my computer - David Spivak's proposal for the compositional analysis of interconnected systems(http://math.mit.edu/~dspivak/AFOSR--Proposal--PixMat--NoBudget.pdf) and [The Rigging of American Politics](https://www.vox.com/policy-and-politics/2018/10/16/17951596/kavanaugh-trump-senate-impeachment-avenatti-democrats-2020-supreme-court), Ezra Klein's essay on the U.S. political legitimacy crisis.  The focus of the first is on engineered systems, and how  compositionality can help solve hard system design problems.  The focus of the second is on political systems, and how the lack of consensus on design problems is leading to a potentially severe political crisis.  So a natural question is whether compositionality can be extended to political systems.  But a deeper question is whether compositionality is itself a value, or is it a means to an end (such as stability or emergence).

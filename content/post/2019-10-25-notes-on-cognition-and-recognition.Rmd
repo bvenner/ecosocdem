@@ -3,8 +3,6 @@ title: Notes on Cognition and Recognition
 author: Bradley Venner
 date: '2019-10-25'
 slug: notes-on-cognition-and-recognition
-categories: [notes]
-tags: [categorical-semiotics,cognition]
 ---
 
 Piet Strydom critically reviews Honneth's Tanner Lectures and develops their notion of cognition as prior to recognition, playing off the construction of the words.
@@ -21,7 +19,7 @@ Does biosemiotics imply that cognition cannot be identified with semiotics?  Cog
 
 Deely argues that Aquinas' concept of primum cognitum may be an early precursor of  understanding the emergent properties of cognition.  On the other hand, animal cognition is clearly studied by many scientists and may be considered as part of cognitive science.  Wikipedia has an entry on [cognitive biology](https://en.wikipedia.org/wiki/Cognitive_biology), which would be consistent with the notion of biosemiotics as identifying life and semiotics.
 
-Strydom goes on to identify the recognitive domain with the metacognitive, defined as 
+Strydom goes on to identify the recognitive domain with the metacognitive, defined as
 
 > human beings’ ability ‘to implicitly or explicitly access [their] own cognitive states, judgements in knowledge and learning, feelings of knowing, uncertainty monitoring, categorization, evaluation, decision-based action, etc.’ (Brinck and Liljenfors (2009: 17))
 
