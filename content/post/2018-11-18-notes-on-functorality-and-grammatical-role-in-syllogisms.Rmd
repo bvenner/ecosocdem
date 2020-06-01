@@ -3,8 +3,6 @@ title: Notes on Functorality and Grammatical Role in Syllogisms
 author: Bradley Venner
 date: '2018-11-18'
 slug: notes-on-functorality-and-grammatical-role-in-syllogisms
-categories: []
-tags: []
 ---
 
 After reading Redding's article on Peirce and Hegel, I wondered if some of the category-theoretic models of the syllogism that have been developed could shed light on the status of abduction and induction as modeled on the second and third figure of the syllogism, as discussed by Redding.  This is probably most relevant to understanding the relationship between Peirce and Hegel, as a more direct attack via existential graphs a la Zamalea might be preferred to understanding abduction in Peirce.
@@ -30,4 +28,3 @@ Reyes solution of a nominal category mapping to a kinds category K is very simil
 I found the long middle section quite hard to follow, and it appears to rely upon first-order logic in order to make conclusions.  It also seems to rely upon the notion of 'colimit of a functor', which is not defined in nLab.  Scheider's dependent types approach may actually be easier to follow.
 
 This intepretation did not seem to distinguish the three figures of the syllogism, so it's not intuitively obvious how this relates to Peirce's and Hegel's distinction of these types of reasonings, as developed by Redding [@redding:]
-

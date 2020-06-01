@@ -1,8 +1,0 @@
----
-title: Thoughts from applied category theory conference
-author: Brad Venner
-date: '2019-11-11'
-slug: thoughts-from-applied-category-theory-conference
-categories: []
-tags: []
----

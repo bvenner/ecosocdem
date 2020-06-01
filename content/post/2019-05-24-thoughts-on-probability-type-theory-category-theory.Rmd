@@ -3,8 +3,6 @@ title: Thoughts on probability, type theory, category theory
 author: Bradley Venner
 date: '2019-05-24'
 slug: thoughts-on-probability-type-theory-category-theory
-categories: []
-tags: []
 ---
 What about a course on "Probability and Type Theory", which would concentrate on probability, or "Data Science and Type Theory", which could include databases and measurements.  Or a more practical approach could be "Haskell for Data Science," which could be motivated from these developments but would be grounded in the practical needs of data science.
 

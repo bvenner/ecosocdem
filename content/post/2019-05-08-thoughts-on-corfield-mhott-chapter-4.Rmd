@@ -3,8 +3,6 @@ title: Thoughts on Corfield MHoTT Chapter 4
 author: Bradley Venner
 date: '2019-05-08'
 slug: thoughts-on-corfield-mhott-chapter-4
-categories: []
-tags: []
 ---
 
 Corfield develops a general story of the relationship between the quantifiers and modality.
@@ -17,7 +15,7 @@ Catherine Legg wrote a paper comparing Peirce and Brandom on inferentialism and 
 
 The notion of possibility as monad seems to fit in well with the analysis of sequential decisions by Ianescu, where a modal operator allows the sequential decision problem to depend upon a variety of different models of possibility, including probability.
 
-The potential for possibility as lifting is hinted at on p. 25.  Corfield quotes Curry's notion of possibility as 
+The potential for possibility as lifting is hinted at on p. 25.  Corfield quotes Curry's notion of possibility as
 
 >in some stronger (outer) theory, $\phi$ holds
 

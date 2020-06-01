@@ -3,8 +3,6 @@ title: Thoughts-on-democratic-inquiry-into-democracy
 author: Bradley Venner
 date: '2019-10-23'
 slug: thoughts-on-democratic-inquiry-into-democracy
-categories: [thoughts]
-tags: [pragmatic-ecosocialism]
 ---
 
 The fiercevulnerabilty workshop reminded me that a peer-based education approach to democracy is necessary (and could be interesting).  I'd like such a workship to combine some recent thoughts, such as the 'curriculum project' that Marie and I were talking about, my idea to start a working group on democracy within DSA, teaching a course on pragmatic ecosocialism (with an emphasis on how pragmatism could unite democratic socialism and scientific socialism), my discussion with Nick about whether Extinction Rebellion was anarchist or democratic, our discussions about having another weekly soup night event, and the weekly meditation group that Kritee is doing in Boulder.
@@ -15,7 +13,7 @@ One way to start the group would be to view Astra Taylor's movie 'What is Democr
 
 The basic idea that the title tries to highlight is that democracy is both a means and an end.  As a means, the term appears as 'democratic', while as an end it appears as 'democracy'.  Democratic often refers to governance by the people, but this can mean governance by the governed.  Lincoln's formulation of government of the people, by the people and for the people points to this same sort of contradiction, although 'of' and 'by' are not really that different.  Does 'democracy' always refer to governance?  The greek construction of the word, as rule by the people, clearly implies governance as a central concept.
 
-The varying emphasis on means and ends can sometimes be seen when both 'democratic' and 'democracy' are used with the same word.  Oftentimes, the difference in order is used to draw strong contrasts. 
+The varying emphasis on means and ends can sometimes be seen when both 'democratic' and 'democracy' are used with the same word.  Oftentimes, the difference in order is used to draw strong contrasts.
 
 It might be interesting to go back to Goguen's analysis of conceptual blends, where he draws the distinction between 'boat house' and 'house boat'.  In these cases, the central concept is the second word and the modifier is the first word.
 

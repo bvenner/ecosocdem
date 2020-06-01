@@ -3,8 +3,6 @@ title: How to proceed with 'Semeiotic of Economic Values'?
 author: Brad Venner
 date: '2018-09-30'
 slug: how-to-proceed-with-semeiotic-of-economic-values
-categories: [semiotic-values]
-tags: []
 ---
 
 So Marx begins "Capital" with a discussion of commodities.  There appear to be a lot of assumptions built into this notion.  For example, the ordinary notion of a "thing" as external to humans.  I understand that Marx wanted to begin with the ordinary experience of people.  But does beginning with the notion of "thing" beg the question?
@@ -13,9 +11,9 @@ Suppose we understand the Hegelian project as a reaction to modern individualism
 
 Of course, this is all very interesting, but I've continued to struggle with how to bridge this picture from philosophy into economics.  But do I have an implicit foundationalism in my understanding?  Does it makes sense to try to understand things at an axiomatic level?  Isn't that a fundamental criticism of economics right now?  Shouldn't economics be an empirical inquiry?  What is the proper methodology for studying a system of extreme complexity that is far beyond the ordinary experience of an individual human?  
 
-At a more practical level, how would I put a course together to examine theories of economic value so that: 
+At a more practical level, how would I put a course together to examine theories of economic value so that:
 
-1.  The space of possible theories is broad enough to not exclude potential solutions?  I'd like this to be a sufficiently broad survey course to include the major theories of economic value. 
+1.  The space of possible theories is broad enough to not exclude potential solutions?  I'd like this to be a sufficiently broad survey course to include the major theories of economic value.
 
 2.  The space of possible solutions should include the normative aspect.  This  is implicit in the title, since Peirce often considered semiotic to be normative.  The later Peirce understanding of the normative would be as a 'would-be', and that this is an 'inalienable' aspect of the sign.
 
@@ -31,4 +29,3 @@ But language appeared much earlier in human history than price, and production a
 So the question becomes why the particular language of price, the mathematics of quantity as expressed in what came to be the 'real' numbers.  
 
 Perhaps prices arise along with "civilization."  Hudson shows that the notions of accounting appear in Babylonian times.  However, I'm not clear if  Furthermore, money and prices do not appear internally in the Incan Empire, which implies that the link between civilization and money is not a necessary one.   
-

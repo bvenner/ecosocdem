@@ -3,8 +3,6 @@ title: Type theory for ecosocialists
 author: Bradley Venner
 date: '2018-11-30'
 slug: type-theory-for-ecosocialists
-categories: [categorical-semiotics]
-tags: []
 ---
 
 It's tempting to use the subtitle 'Type theory for ecosocialists' for my 'categorical semiotics' project.  Formally, intuitionistic type theory can be used as the internal logic for a topos, esp. a homotopy topos, so in abstract the category theory side is covered. To understand this link, I need to really get this distinction.

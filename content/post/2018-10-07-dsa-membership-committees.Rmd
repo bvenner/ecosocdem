@@ -3,8 +3,7 @@ title: DSA Membership Committees
 author: Brad Venner
 date: '2018-10-07'
 slug: dsa-membership-committees
-categories: []
-tags: []
+
 ---
 #[East Bay Member Engagement Committee](http://www.eastbaydsa.org/about/committees)
 
@@ -28,4 +27,4 @@ Since the election, membership in Democratic Socialists of America has exploded 
 
 #[Tampa Bay](https://www.tampabaydsa.org/working-groups/)
 
-## 
+##

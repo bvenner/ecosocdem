@@ -3,8 +3,6 @@ title: Notes on Models for Polymorphism over Physical Dimensions
 author: Bradley Venner
 date: '2019-02-25'
 slug: notes-on-models-for-polymorphism-over-physical-dimensions
-categories: []
-tags: []
 ---
 
 In looking at Keen's article *A Note on the Role of Energy in Production* [@keen:2019:note], I was struck again how the notion of exchange value as a universal pervades economics in an almost unreflexive way.  One way to think of this universal is similar to the universal, untyped notion of membership in set theory.  So Keen's use of functions could be mathematically justified by the unstated map into exchange value.  The production function is implicitly from the viewpoint of the capitalist, who says to themselves "if I double the amount I spend on labor, how much will I increase the value of my output", with exchange value reconciling the different units.  Keen seems to assume that he can bring this notion of exchange value into his analysis of the role of energy in neoclassical production.  But energy seems like such a fundamentally physical notion that is intrinsically tied with use-value, not exchange value.  Keen's prior dismissal of Marx over the labor theory of value means that, of course, he is either unaware or won't fundamentally criticize the notion of exchange value as an an empty universal.
@@ -23,7 +21,7 @@ Atkin begins with monomial expressions in the type theory, which is restricted t
 
 Their language has both dimensions and types.  Types are parameterised by dimension but not by other types.  So this is a relatively restricted language compared to an intuitionistic type theory/dependent types language.
 
-Could this language be implemented in CatInf? 
+Could this language be implemented in CatInf?
 
 The fibrational semantics reminds me of the categorical semantics for the syllogism by De Reyes.
 

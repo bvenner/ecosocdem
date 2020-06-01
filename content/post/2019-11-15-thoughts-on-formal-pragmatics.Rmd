@@ -3,15 +3,13 @@ title: Thoughts on formal pragmatics
 author: Bradley Venner
 date: '2019-11-15'
 slug: thoughts-on-formal-pragmatics
-categories: []
-tags: []
 ---
 
 Given the development of categorical syntax and semantics, one way to present categorical semiotics would be the missing category of 'categorical pragmatics'.  Although it is ironic that Morris' terminology is well known, educators need to start where there audience is, right?  
 
 Since categorical pragmatics would be done formally (i.e. mathematically), Peirce may have placed it  'speculative grammar.'  Formal pragmatics would be investigated within speculative grammar, and one map would be to the 'objects' within speculative grammar, placing pragmatics as the study of the interpretant.  But there is also another sense in which Morris' triad would correspond to the normative science of logic, with pragmatics mapped to methodeutic/rhetoric.  In this sense, formal pragmatics belongs to grammar but the broader sense of pragmatics belongs to rhetoric.
 
-| Morris | Semiotics  | Grammar | 
+| Morris | Semiotics  | Grammar |
 |--------|------------|---------|
 | Syntax | Grammar    | Sign    |
 | Semantics | Logic   | Object  |

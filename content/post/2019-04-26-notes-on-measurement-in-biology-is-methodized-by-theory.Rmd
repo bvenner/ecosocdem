@@ -3,8 +3,6 @@ title: Notes on measurement in biology is methodized by theory
 author: Bradley Venner
 date: '2019-04-26'
 slug: notes-on-measurement-in-biology-is-methodized-by-theory
-categories: [categorical-metrology]
-tags: []
 ---
 
 I opened this article [@montevil:2019:measurement] by Monte&#769;vil immediately after I received an e-mail notificaiton from ResearchGate, as from it's title its a very important article in my categorical metrology project, and Montevil's work with Longo on theoretical biology is important, even if I haven't figured out how it fits yet.  

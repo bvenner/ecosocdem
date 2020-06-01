@@ -3,8 +3,6 @@ title: Thoughts on probability and materialism
 author: Bradley Venner
 date: '2020-05-16'
 slug: thoughts-on-probability-materialism
-categories: [categorical-semiotics]
-tags: []
 ---
 Does probability have a material basis?  This is a corollary to the question 'does logic have a material basis?'  Probability theory began as the mathematical analysis of the games of chance.  What makes it interesting is the fact that people bet on games of chance.  It is people's desire to bet on these outcomes that makes mathematical games of chance interesting.
 

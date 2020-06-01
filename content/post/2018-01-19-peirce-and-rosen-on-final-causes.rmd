@@ -2,14 +2,8 @@
 title: Peirce and Rosen on Final Causes
 author: Brad Venner
 date: 2018-01-20
-output: html_document
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-mm.in=25.4
-```
-Rosen and Peirce both analyzed
+Rosen and Peirce both analyzed final causes.
 
 In 1903, in the Harvard Lectures and in his *scolium* for New Elements of Mathematics, Peirce developed an interpretation of the concept of final cause as used by Aristotle.  
 

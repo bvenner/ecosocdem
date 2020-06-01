@@ -3,8 +3,6 @@ title: Thoughts on three to three
 author: Brad Venner
 date: '2019-10-30'
 slug: thoughts-on-product-and-function
-categories: [thoughts]
-tags: [categorical-semiotics]
 ---
 
 There are 10 order-preserving morphisms from the ordered category *three* to itself.  Do these correspond to Peirce's 10 classes of signs?
@@ -31,12 +29,4 @@ For the codomain, the triadic relation that is the target of the map is represen
 
 >A Representamen is the First Correlate of a triadic relation, the Second Correlate being termed its Object, and the possible Third Correlate being termed its Interpretant, by which triadic relation the possible Interpretant is determined to be the First Correlate of the same triadic relation to the same Object, and for some possible Interpretant. A Sign is a representamen of which some interpretant is a cognition of a mind. Signs are the only representamens that have been much studied. (CP 2.242)
 
-Note that this map places the *Object* as the second object in $3$, the object $*$.  This is different from the typical 'triangle' map, where the sign is located as the middle term, with the understanding that it maps between object and interpretant.  But it fits better with the more traditional notion of the sign as an object of experience that brings something else to consciousness, so the order of cognitive operations is sign, sign->object, sign->object->interpretant.  This order-of-operations interpretation also fits with Peirce's model of scientific inquiry, where perceptual judgement shades into abductive inference.  It also conveniently fits with the syntax, semantics, pragmatics triad and thus to categorical semiotics.
-
-The question of the ordering of the
-
-[//]: # (what about writing categorical semiotics as a supplement)
-
-[//]: # (to An Invitation to Applied Category Theory?)
-
-[//]: # (This section could run parallel to the Posets chapter.)
+Note that this map places the *Object* as the second object in $3$.  This is different from the typical 'triangle' map, where the sign is located as the middle term, with the understanding that it maps between object and interpretant.  But it fits better with the more traditional notion of the sign as an object of experience that brings something else to consciousness, so the order of cognitive operations is sign, sign->object, sign->object->interpretant.  This order-of-operations interpretation also fits with Peirce's model of scientific inquiry, where perceptual judgement shades into abductive inference.  It also conveniently fits with the syntax, semantics, pragmatics triad and thus to categorical semiotics.

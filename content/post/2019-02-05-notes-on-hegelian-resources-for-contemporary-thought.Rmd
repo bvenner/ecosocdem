@@ -3,8 +3,6 @@ title: Notes on Hegelian Resources for Contemporary Thought
 author: Bradley Venner
 date: '2019-02-05'
 slug: notes-on-hegelian-resources-for-contemporary-thought
-categories: []
-tags: []
 ---
 
 This beautiful essay by Italo Testa [@testa:2016:hegelian], was written as an introduction to the book ["I that is We, We that is I", @testa:2016:I], places the Hegelian revival in historical context.  It mentions many authors I've never heard of, but also covers critical theory and analytical pragmatism and Hegel's influence in both projects, so names like Honneth, Bramdon and Redding appear.  

@@ -1,8 +1,0 @@
----
-title: Thoughts on activity theory
-author: Bradley Venner
-date: '2020-04-17'
-slug: thoughts-on-activity-theory
-categories: []
-tags: []
----
