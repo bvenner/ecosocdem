@@ -51,3 +51,5 @@ PI’s name and affiliation are eluding me, but this seemed to be
 Would it be helpful to distinguish the validation process from the inference process?  My previous attempt to apply Bayesian networks to the validation process used a hierarchical model to arrange validation information, with primary sample at the top.  
 
 ## Jupyter notebooks
+
+ftp://ftp.cpuc.ca.gov/energy/modeling/RESOLVE_20191004.zip
