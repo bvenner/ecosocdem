@@ -21,3 +21,5 @@ Would it be helpful to distinguish the validation process from the inference pro
 Could Spivak's work on behavioral mereology be applied to the notion of analytical method?  There are two main domains - material type and analytical method.  But can these really be modeled as hierarchies?  Material type seems more like a complex domain with many attributes.  
 
 ## Jupyter notebooks
+
+ftp://ftp.cpuc.ca.gov/energy/modeling/RESOLVE_20191004.zip
