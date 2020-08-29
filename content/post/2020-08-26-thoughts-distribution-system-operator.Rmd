@@ -1,0 +1,17 @@
+---
+title: Thoughts on Distribution System Operators
+author: Bradley Venner
+date: '2020-08-26'
+slug: thoughts-distribution-system-operators
+---
+
+Kristov and Johnson's presentation on community energy resilience is a tremendously valuable framework for thinking about fostering resilient electricity systems and increasing community involvement in these important decisions.  However, this approach is highly dependent upon the key role of the distribution system operator.  I believe that due to it's critical role and the present lack of information on how best to design such entities, it is important to begin with a very broad model that can be refinied over time.  To their credit
+
+In particular, it is quite likely that existing models will not be adequate to develop such an entity.  In the talk, two possible models were mentioned. - the Independent System Operator as known from electricity deregulation and the privately held, publicly regulated monopoly.  While it's necessary to begin where we are, we should not let unexamined assumptions take the place of democratic inquiry.
+
+An independent system operator (ISO) operates at a statewide level and coordinates wholesale power markets.  The California ISO (CAISO), the most relevant ISO for this discussion considering Kristov's long employment there, is a nonprofit public benefit corporation.  By design, CAISO is insulated from direct political oversight of day-to-day operations and plays a purely technocratic role.  It sets 'local marginal prices' for electricity and allows open-access to the transmission networks to generators that can meet the local marginal price.  It can do this because the rules governing its role as setting prices to facilitate local balancing in energy markets transactions were relatively uncontroversial during the fossil fuel era. But this model of electricity sold in commodity markets is an increasingly poor fit for renewable energy systems.  Renewable energy is governed by high fixed costs and very low marginal costs.  Classical economic theory supports the idea that the price of an item should be proportional to its marginal cost, which clearly does not work to finance renewable energy systems.  Wholesale electricity markets are increasingly disfunctional and it is quite likely that the ISO model will have to be substantially revised in the future.  The idea of a neutral, technocratic market-making organization may have to be abandoned.
+
+Another model for structuring a DSO is a privately held, publicly regualted monopoly.  This model was the basis for electricity provision for many years, and was reasonably successful by the metric of providing reliable, low-cost electricity.
+
+
+geoplatform.com password:  M%81pHr$k^Zi6q5sk

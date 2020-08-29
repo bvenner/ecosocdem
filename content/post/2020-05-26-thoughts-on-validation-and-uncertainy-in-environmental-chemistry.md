@@ -24,7 +24,7 @@ How does Jacob's notion of 'state' fit with the notion of chemical state as a mi
 ## Memory evolutive systems
 Another approach is the memory evolutive systems of
 
-## Behavioral mereology
+## Behavioral mereology-
 
 Could Spivak's work on behavioral mereology be applied to the notion of analytical method?  There are two main domains - material type and analytical method.  But can these really be modeled as hierarchies?  Material type seems more like a complex domain with many attributes.  
 
