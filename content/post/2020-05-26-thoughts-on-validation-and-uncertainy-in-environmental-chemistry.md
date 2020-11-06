@@ -4,6 +4,15 @@ author: Bradley Venner
 date: '2020-05-26'
 slug: thoughts-on-validation-and-uncertainty-in-environmental-chemistry
 ---
+
+With our recently announced return to work, I am going to need to move this project towards a practical deliverable and only work on what is most important.  It's OK for my work presentation to be only a partial aspect of the larger project, but it would be nice if the general framework was sufficiently developed to move forward.
+
+Measurement is a key element of science.  Although the results of measurement, or data, lie in the past, as an aspect of inquiry it is essentially future-oriented.  Peirce struggled with the question of measurements that had not been made, and his answer of 'real possibilities' was in part a solution to the connundrum.  A diamond whose hardness is never tested can still be said to be hard, even if the question is never put to nature.  Induction, the knowledge of laws, results in a 'would-be', a rule who's subjects dwell in the realm of the possible.
+
+The concept of reproducibility is of the nature of a 'would-be.'  In a dynamic universe, there are simply questions that can never be answered as the universe sweeps them into the past.  Longo's notion of an evolving dynamical system with an ever-changing phase space implies that at a fundamental level some questions can simply never be answered.  This means that actual reproducibility is a local condition - samples are changed, destroyed, lost and the results of measurement will often lie in an inaccessible past.  So reproducibility is an aspect of the plan of measurement, a 'would-be'.
+
+The reason to specify the execution of a measurement, to provide a detailed discussion of what was done, is to allow for a semiotic notion of reproducibility.  While actual reproducibility is rare, there are a 
+
 # Math/Theory
 
 ## Categorical Metrology
@@ -51,5 +60,3 @@ PI’s name and affiliation are eluding me, but this seemed to be
 Would it be helpful to distinguish the validation process from the inference process?  My previous attempt to apply Bayesian networks to the validation process used a hierarchical model to arrange validation information, with primary sample at the top.  
 
 ## Jupyter notebooks
-
-ftp://ftp.cpuc.ca.gov/energy/modeling/RESOLVE_20191004.zip
