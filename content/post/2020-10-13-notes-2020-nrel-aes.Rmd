@@ -1,0 +1,8 @@
+---
+title: Notes on 2020 NREL Workshop on Autonomous Energy Grids
+author: Bradley Venner
+date: '2020-10-13'
+slug: notes-2020-nrel-workshop-autonomous-energy-grid
+---
+
+NREL held this workshop (virtually?) on Aug 19 and 20, 2020.  

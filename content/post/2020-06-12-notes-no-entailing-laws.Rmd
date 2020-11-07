@@ -13,8 +13,8 @@ If I remember correctly, Peirce criticized Laplace's Bayesianism for its relianc
 
 > An essential feature of our analysis is that at levels of complexity above the atom, for example for molecules, the universe is grossly non-ergodic, that is it does not explore all possible paths or configurations.
 
-This paper concentrates on the physical and biological case, but this quote shows that the chemical case is interesting as this 'scale' is where the ergodic hypothesis may break down.
+This paper concentrates on the physical and biological case, but this quote shows that the chemical case is interesting as this 'scale' is where the ergodic hypothesis may break down.  Since Peirce was inspired by chemistry in the development of the existential graphs, this is an interesting place to establish Deely's physiosemiosis.
 
 > As for biology, evolution is both the result of random events at all levels of organization of life and of constraints that canalize it.
 
-Sounds like Peirce's firstness and secondness.  But the ability to take on a habit, or to change a habit (as thirdness) is not included in this explanation.
+Sounds like Peirce's firstness and secondness.  But the ability to take on a habit, or to change a habit (as thirdness) is not included in this explanation.  However, contraints could be viewed as secondness and 'canalize' as thirdness - life needs to stay within constraints or it will perish, which canalization makes possible.

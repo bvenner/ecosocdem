@@ -13,7 +13,7 @@ They open the introduction stating the two hypotheses explored by the paper.  I 
 
 > This hypothesis rests on the proposition that a better understanding of anticipatory assumptions, including those related to distinct anticipatory systems, empowers people to grasp why and how the imaginary future influences what they see and do in the present.
 
-Faith, hope, and love, but the greatest of these is love.  I've increasingly seen the role of love in chainging habits as acting in the present to change the future.  Identification of a possible future, driven by habit, and acting to change the habit, seems like as good a definition of love as any.  In the Wikipedia entry on 13 Corinthians, it states that FDR swore his oath to this chapter.
+Faith, hope, and love, but the greatest of these is love (1 Corinthians 13:13).  I've increasingly seen the role of love in changing habits as acting in the present to change the future.  Identification of a possible future, driven by habit, and acting to change the habit, seems like as good a definition of love as any.  In the Wikipedia entry on 13 Corinthians, it states that FDR swore his oath to this chapter.
 
 > The second hypothesis is that FL, because it enhances the capacity to appreciate complexity, makes it easier to take advantage of change, to deploy everyday forms of contextual creativity, and to embrace a diversification strategy towards resilience.
 
@@ -29,7 +29,7 @@ The 'systems of systems' idea was also developed by Spivak using operads.
 
 > The change of configuration from t to t' is measured by a functor from a sub-category $K_tt$ of $K_t$ to $K_{t'}$ called a transition.
 
-This doesn't seem right to me.  Meilles' notion of a functor as a type refinement system implies that the 'many to one' nature of a functor isn't a good model of a dynamic system.
+This doesn't seem right to me.  Mellies' notion of a functor as a type refinement system implies that the 'many to one' nature of a functor isn't a good model of a dynamic system.
 
 > It also accounts for the loss of elements by being defined only on the sub-category consisting of elements that still exist at t' ... the 'new' elements at t' are those that are not in the image of this functor.
 

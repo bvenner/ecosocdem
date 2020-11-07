@@ -15,7 +15,7 @@ Could one teach computational type theory along the path simple type theory (car
 
 I need to get a better understanding of 'internal language' - this has a very Peircean ring to it, with grammar contained within the category.
 
-What is the relationship between type theory and semiotics?  I was reading some of Robert Constable's work on computational type theory, which reminded me of how deeply rooted type theory is within Russel's work.  Constable describes reading Principia Mathematica deeply during the design of the NuPRL theorem prover.  I guess that I've believed that intuitionistic type theory was at some level consistent with Peirce's notion that a logic of thirdness would not use excluded middle, which is traceable to Aristotle's notion of .
+What is the relationship between type theory and semiotics?  I was reading some of Robert Constable's work on computational type theory, which reminded me of how deeply rooted type theory is within Russel's work.  Constable describes reading Principia Mathematica deeply during the design of the NuPRL theorem prover.  I've believed that intuitionistic type theory was at some level consistent with Peirce's notion that a logic of thirdness would not use excluded middle, which is traceable to Aristotle's notion of whether events in the future could be true or false.
 
 According to the nlab entry on string diagrams, a string diagram is Poincare dual to a commutative diagram.  This means that for a string diagram in a bicategory, a planar area is a zero cell, a string is a one-cell and a point of intersection is a two-cell.  Then the commutative diagram for a sign-relation expressed by a triangle in a bicategory gives the natural transformation as a teridentity - i.e. a point intersected by three lines.
 

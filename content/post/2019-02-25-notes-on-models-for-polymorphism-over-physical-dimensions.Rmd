@@ -13,13 +13,13 @@ So physical units seems like a good place to start when discussing the use of a 
 
 >Units-of-measure are to science what types are to programming.
 
-Kennedy works for Microsoft, and it would not suprise me if he helped design the F# units system.  I'll do notes for this paper next.  But as usual, I'll try the more abstract paper first.
+Kennedy works for Microsoft, and it would not surprise me if he helped design the F# units system.  I'll do notes for this paper next.  But as usual, I'll try the more abstract paper first.
 
-Atkin references an earlier paper by Kennedy's work on page 2 [@kennedy:1997:relational], but says they will develop a 'general categorical notion of model for a programming language of this form, and by developing ways of building models'
+Atkey references an earlier paper by Kennedy's work on page 2 [@kennedy:1997:relational], but says they will develop a 'general categorical notion of model for a programming language of this form, and by developing ways of building models'
 
-Atkin begins with monomial expressions in the type theory, which is restricted to integer values of the exponents, unlike the Cobb-Douglas formulation, which allows for real-valued exponents.
+Atkey begins with monomial expressions in the type theory, which is restricted to integer values of the exponents, unlike the Cobb-Douglas formulation, which allows for real-valued exponents.
 
-Their language has both dimensions and types.  Types are parameterised by dimension but not by other types.  So this is a relatively restricted language compared to an intuitionistic type theory/dependent types language.
+Atkey's language has both dimensions and types.  Types are parameterised by dimension but not by other types.  So this is a relatively restricted language compared to an intuitionistic type theory/dependent types language.
 
 Could this language be implemented in CatInf?
 
@@ -39,7 +39,7 @@ A [recent paper](https://arxiv.org/ftp/arxiv/papers/1802/1802.10528.pdf) on dime
 
 So as usual, when I blunder into a new field, dimensional analysis is huge!  
 
-So, a preliminary theory is that dimensional analysis is a necessary but not sufficient condition for metrology, so categorical metrology can begin with dimensional analysis but not end there.  Atkey will be a key reference, but there is a lot to do.  Democratic planning will have to wrestle with physcial, chemical, psychological, social measurement.  
+So, a preliminary theory is that dimensional analysis is a necessary but not sufficient condition for metrology, so categorical metrology can begin with dimensional analysis but not end there.  Atkey will be a key reference, but there is a lot to do.  Democratic planning will have to wrestle with physical, chemical, psychological, social measurement.  
 
 As an aside, is Hegel's quantity, quality, measure 'lifting' developed within Schneider's MoHoTT -> Hegel map?
 
