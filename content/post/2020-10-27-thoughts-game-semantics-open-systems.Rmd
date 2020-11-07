@@ -1,0 +1,10 @@
+---
+title: Thoughts on Open Systems and Game Semantics
+author: Bradley Venner
+date: '2020-10-27'
+slug: thoughts-open-systems-game-semantics
+---
+
+There appears to be a close relationship betwen Baez's network theory and game semantics.  This is particularly apparent in the categorical semantics of linear logic developed by Mellies, where a strong monoidal adjunction is used for the connection between a symmetric monoidal category, which describes the linear moment, with a cartesian closed category, which describes the lambda calculus.  This adjunction leads to 'functorial boxes'.
+
+In Kenny Courser's thesis, part of Baez's program, there is a similar understanding of a symmetric monoidal functor as a course-graining of a Markov process.
