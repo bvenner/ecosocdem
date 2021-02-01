@@ -1,0 +1,19 @@
+---
+title: Notes on Resources, Concurrency and Local Reasoning
+author: Bradley Venner
+date: '2021-01-23'
+slug: notes-resource-concurrency-local-reasoning
+---
+
+# Justification
+
+   1.  Resources and local reasoning are crucial aspects of energy democracy, and probably economic democracy in general.  
+
+   1. Ciepley's analysis of the corporate form stresses that the economic form is an 'authoritarian rule of property,' and that this form of 'social property' evolved from more republican forms such as medieval guilds and towns.
+
+   1. Mielle's link between concurrent separation logic and differential linear logic seems intiguing, but his papers are very hard to understand.  So I'm hoping that this paper will provide some valuable background.
+   1. There is an obvious link between the 'pipes' in Mellies work and Trimble's move generalize string diagrams to pipes.  Is this anything more than a superficial link?  
+
+   1.  The paper *Why Separation Logic Works* [@pym:2018:why] emphasizes the need to have a 'logical model' that matches the 'engineering model' of the problem domain.  They emphasize that this is a natural extension of other engineering disciplines and that mathematical theory and engineering practice 'co-evolve'.  This implies that an 'invariant' logical model theory based in set theory is not going to work.
+
+#

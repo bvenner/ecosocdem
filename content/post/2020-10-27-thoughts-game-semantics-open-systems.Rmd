@@ -9,4 +9,6 @@ There appears to be a close relationship betwen Baez's network theory and game s
 
 In Kenny Courser's thesis, part of Baez's program, there is a similar understanding of a symmetric monoidal functor as a course-graining of a Markov process.
 
-Powell's work on a unified framework for sequential decision analysis is very applied. The emphasis on sequential decision reminds me of Meilles' work on categorical game semantics with his emphasis on sequential, concurrent and relational models for scheduling the relationship between the system and the environment.
+Murfet describes algorithmic learning theory within the context of differential linear logic.  Powell discusses learning theory within his sequential decision analysis framework.
+
+Would a top-down/bottom-up approach to the sequential decision analysis framework improve the rate of convergence.  Studying sequential decision analysis as actually applied to power flow networks could be helpful for my energy democracy work.  
