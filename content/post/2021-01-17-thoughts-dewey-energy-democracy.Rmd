@@ -1,0 +1,26 @@
+---
+title: Thoughts on Dewey and Energy Democracy
+author: Bradley Venner
+date: '2021-02-13'
+slug: thoughts-dewey-energy-democracy
+---
+
+David Ridley's new book *The Method of Democracy:  John Dewey's Theory of Collective Intelligence* [@ridley:2020:method] costs $60, and is not available at the public library yet, so I have not read it yet.  This is likely ironic, as it advocates for reform of higher education, which if implemented would have resulted in the ability to get this book for free.
+
+Eventually I will have to buy it, as his other articles are quite good.  Ridley's article linking Dewey and Lippman's 'first' debate was good and gave me the idea that Dewey might present an alternative to neoliberalism that was available early in its development.  
+
+So is energy democracy fundamentally a 'method'?  Decarbonization is the end, and energy democracy develops the means to do so?  This could be developed along the direction proposed by the P2P foundation, with energy democracy succeeding the 'state' (regulated monopoly) and 'market' approaches that have been used in the energy system; this makes 'democracy' and 'commons' similar concepts.  
+
+Ridley emphasizes the term 'democractization' rather than 'democracy' as an 'end-in-view' [@ridley:2017:institutionalizing].  This approach might help reduce resistance - democratization of energy sounds better than 'energy democracy' as the emphasis is on the transition and action rather than the destination.  There are obviously numerous points in the energy transition where 'democratization' could take place.  Ridley's essay is focused on 'critical pedagogy' but could be translated into 'democratic energy'
+
+> The concept of democratisation changes the question from ‘What is wrong with the world and what should it be like?’ to ‘Where are we going and how do we get there?’ [@ridley:2017:institutionalizing]
+
+The relationship between 'democracy' and 'commons' deserves an essay.  One reason that I liked the notion of the 'atmospheric trust' in the OCT lawsuit was this idea that common property needed to be managed for future generations .  This seemed to contrast with the 'bias towards the present' that can exist in liberal democracy understood as voting.  Clearly, the vast majority of people that will be affected by today's decisions about GHG pollution have not been born, or even worse, will not be able to be born.  So how does 'radical democracy' deal with intergenerational conflict?   
+
+Energy democracy is more than just good planning or collective intelligence. It is the application of force to change our deeply immoral existing energy system.  Livingston's paper *Between Means and Ends:  Reconstructing Coercion in Dewey’s Democratic Theory* [@livingston:2017:between] shows that the democratic method can embrace coercive methods when necessary.  It's also a shoutout to *Reconstruction in Philosophy*, which seems to me to be the key framework for considering many of Dewey's later works.
+
+> Where existing institutions are judged to be inefficient means for realizing their ends, there arises a legitimate claim to use coercive force to disrupt, correct, or abolish them. Inherited institutional orders that were once agents of progress can become obstacles to further development as they fail to adjust to changing historical conditions.[@livingston:2017:between, p. 525]
+
+> Coercion can become a democratic means when it serves as a tool of provoking public inquiry. These are means that intensify the problematic character of a social situation that remains repressed or distorted by existing institutions, narratives, ideologies, and practices.  [@livingston:2017:between, p. 525]
+
+> The method of democracy—insofar as it is that of organized intelligence—is to bring these conflicts out into the open where their special claims can be seen and appraised, where they can be discussed and judged in the light of more inclusive interests than are represented by either of them separately” [@dewey:1935:liberalism, p. 79]
