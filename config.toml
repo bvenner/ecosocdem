@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Ecology, Society, Semiotics"
+title = "Ecology, Society, Democracy"
 theme = "ananke"
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -19,7 +19,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-    description = "Marx, Peirce, Lawvere:  follow the red thread"
+    description = "Growing my understanding of democratic ecosocialism"
     twitter = "https://twitter.com/BradVenner"
     instagram = ""
     youtube = ""
