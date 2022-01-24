@@ -2,4 +2,4 @@
 title: About
 ---
 
-Ecology, Society, Semiotics is the philosophy notebook of Brad Venner.   Beware, I'm not a trained philosopher, and the notebook contains little but partial and incomplete notes.  
+Ecology, Society, Democracy is the notebook of Brad Venner and is a chronicle of my readings and musings on democratic ecosocialism.   Beware, I'm not a trained philosopher, and the notebook contains little but partial and incomplete notes.  
