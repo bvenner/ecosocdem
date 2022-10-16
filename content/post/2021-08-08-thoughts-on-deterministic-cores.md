@@ -10,7 +10,16 @@ In categorical probability, the 'deterministic core' is a category with products
 
 In Pavlovic's **Retracing some paths in categorical semantics** paper, he develops in detail the relationship between a functional language, modeled as a cartesian closed category, and a more general category of 'processes', which presumably includes non-deterministic processes. The main difference with the probabilistic case seems to be the addition of the 'closed' structure, which takes the deterministic core from a more propositional flavor to a higher-order flavor. I haven't yet finished this paper, which soars to dizzying heights, but this preliminary model shows that the 'embedding' is 'similar' to the relationship between the integers and the real numbers.  Pavlovic develops linear algebra from his construction on real numbers, (perhaps?) showing the close relationship between linear algebra and linear logic. 
 
-Both of these constructions seem related to a 'linear-non-linear adjunction' in intuitionistic linear logic. This adjunction relates a 'multiple' category with cartesian products and a 'linear' category that is symmetric monoidal closed. These categories are connected by a 
+Pavlovic's construction seem related to a 'linear-non-linear adjunction' in intuitionistic linear logic. This adjunction relates a 'multiple' category with cartesian products and a 'linear' category that is symmetric monoidal closed.
+
+Is an early model of this reasoning the relationship between Boolean algebra and probability that was developed by Cox and extended by Jaynes? This would be a good exercise to make sure that I understand the "information transformer" construction. A few facts.
+
+> The Kliesli category of the powerset monad is isomorphic to the category $\mathbf{Rel}$ of sets and binary relations under relational composition [https://www.cs.cornell.edu/courses/cs6110/2011sp/lectures/lecture37.pdf]
+
+> Assuming excluded middle, complete atomic Boolean algebras are (up to isomorphism) precisely power sets [https://ncatlab.org/nlab/show/complete+Boolean+algebra].
+
+
+Golubtsov considers information transformer models in Set in some detail.
 
 Mellies seems to have taken this construction as primary and has extended it to a 'game semantics' model that considers more general structures than *-autonomous categories. 
 

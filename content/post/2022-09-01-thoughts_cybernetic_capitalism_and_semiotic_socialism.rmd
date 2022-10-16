@@ -1,0 +1,13 @@
+---
+title: "Thoughts on Cybernetic Capitalism and Pragmatic Socialism"
+author: "Brad Venner"
+date: "09/02/2022"
+output: html_document
+---
+End product of this project should be a technical report that summarizes my understanding of how NEIC complies with laboratory accreditation requirements related to validation and uncertainty, with the goal of improving approaches to lab accreditation. This report would also push back on the "optimal control" understanding of analytical chemistry, understood as variance reduction,   
+
+> we believe that much of the literature on fixed and random effects can be fruitfully reexpressed in terms of finite-population and superpopulation inferences. (p. 13)
+
+An intermediate question would be finite populations that are larger than the sample size (such as in finite population sampling).
+
+Good examples to work through would be the Ingersoll nested ANOVA problems.
