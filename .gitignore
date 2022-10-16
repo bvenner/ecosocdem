@@ -1,4 +1,6 @@
 public/
+# personal authentication tokens
+github-pat*
 
 # History files
 .Rapp.history
