@@ -4,6 +4,9 @@ author: "Brad Venner"
 date: "10/12/2022"
 output: html_document
 ---
+# github woes
+
+Two hours wasting time configuring GitHub.
 
 # On chosing a title for a notebook entry
 
