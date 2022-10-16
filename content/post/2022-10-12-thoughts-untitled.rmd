@@ -7,6 +7,7 @@ output: html_document
 # github woes
 
 Two hours wasting time configuring GitHub.
+Testing again
 
 # On chosing a title for a notebook entry
 
