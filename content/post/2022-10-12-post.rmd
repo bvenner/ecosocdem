@@ -1,0 +1,20 @@
+---
+title: ""
+author: "Brad Venner"
+date: "10/22/2022"
+output: html_document
+---
+
+# Implementing category theory
+
+Several computational implementation of category theory use some form of dependent types. Rather than "full" dependent types, first-order logic with dependent types and generalized algebraic theories may be considered as "fragments" of a full dependent type theory and thus more amenable to computational implementation.  
+
+1. First-order logic with dependent types (FOLDS)
+2. Generalized algebraic theories (GAT)
+3. Categories with families (CwF)
+
+Makkai asserts the similarity between GAT and FOLDS, but claims that both FOLDS is simpler and can be used to implement "generalized invariance".
+
+Palmgren classifies FOLDS as a "logic-enriched type theory" and develops the relationship between FOLDS and categories with families by developing a hyperdoctrine over CwF.
+
+Since Catlab implements generalized algebraic theories, this should be my starting place. 
