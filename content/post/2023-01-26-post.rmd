@@ -1,0 +1,12 @@
+---
+title: "Entry"
+author: "Brad Venner"
+date: "01/26/2023"
+output: html_document
+---
+
+# The Note Box Method
+
+The note card method developed by Niklas Luhmann has the German name Zettelkasten, literally translated "note box". Much of what I've tried to do with this research blog looks a lot more like notetaking than article writing. Can I create a note card system that would help with my writing? This also seems like an opportunity for categorical database and knowledge representation. Can I eat my own dog food? What would such a system look like?
+
+After I little web browsing, one interesting project is Dendron, which is built on VS Code
