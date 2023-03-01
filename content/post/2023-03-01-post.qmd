@@ -1,0 +1,10 @@
+---
+title: "Journal Entry"
+author: "Brad Venner"
+date: "03/01/2023"
+output: html_document
+---
+
+# Accounting as semiotics
+
+I took a sudden turn towards research in accounting systems after a discussion with Steve Byers around ESG (Environment, Social, Governance) systems in business. I was not able to articulate why 
