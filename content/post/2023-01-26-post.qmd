@@ -1,5 +1,5 @@
 ---
-title: "Entry"
+title: "Journal Entry"
 author: "Brad Venner"
 date: "01/26/2023"
 output: html_document
@@ -17,3 +17,26 @@ I've used Rmarkdown for several years to keep notes organized. I feel like I nee
 
 Rstudio has developed a new documentation system called (Quarto)[https://quarto.org]. Quarto can be used within Visual Studio and can use Julia, so at least one of my use cases has been taken care of. There is a Quarto VS Code Extension. So I could try to migrate my existing documents to this format. This would have the benefit of also providing practice.
 
+Looking at the Academic markdown workflows with Obsidian, a big part of this flow was to create a "literature note" from Zotero within Markdown that imported much of the document metadata from Zotero, along with notes and highlights from the PDF. But this seems not quite right to me. Annotations within a note-taking system should be able to refer to existing resources, whether these are web-based or local, without having to "import" the resource into the notes system. It would probably be better to link to the Arxiv version on the web as opposed to the local PDF resource when sharing such an annotation. So wouldn't it be better to use something like Quarto to create W3C compliant web annotations than "private gardens" with note-taking apps? 
+
+Am I back to giving Hypothesis another shot? Would it be possible to move a notetaking workflow to Hypothesis, and then make these annotations more available when composing documents within Quarto? I could also look into developing document-level annotations using Markdown within Quarto. It seems like the basic model would be to include target information in the metadata, then generate the annotation when HTML is generated.
+
+There is a new (YAML-LD)[https://json-ld.github.io/yaml-ld/spec/] serialization of JSON-LD, which could be used to express W3 web annotations. This means that the same markdown document could represent both the body of an annotation while the annotation structure is saved as the YAML frontmatter.
+
+On a related note, (OpenAlex)[https://openalex.org] has "an open and comprehensive catalog of scholarly papers, authors, institutions and more."  
+
+# Noosphere
+
+Gordon Brander is developing a protocol called Noosphere and a collaborative knowledge management app called Subconscious. He calls this a "protocol for thought"
+
+Brander writes a blog at:
+https://subconscious.substack.com
+
+They are developing on Github at:
+https://github.com/subconsciousnetwork
+
+# Knowledge graphs for participatory science
+
+Auer wrote a paper titled *Towards a Knowledge Graph for Science* [@auer:2018:towards]. This paper could be combined with ideas from participatory science, perhaps using Noosphere's ideas around community knowledge production.
+
+Kris Brown at the Topos Institute gave a talk about the benefits of a high-level specification in the talk (Combinatorial Representation of Scientific Knowledge)[https://www.youtube.com/watch?time_continue=200&v=vJRAw8USmYs&embeds_euri=https%3A%2F%2Fwww.krisb.org%2F&source_ve_path=MTM5MTE3LDEzOTExNywxMzkxMTcsMzY4NDIsMTM5MTE3LDEzOTExNw&feature=emb_logo]
