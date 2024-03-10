@@ -47,7 +47,7 @@ Model-based engineering, diagrammatic logic and views.
 
 Representations of electric systems by Pollard.
 
-# What does energy democracy need from category theory?
+# What can energy democracy do for category theory?
 
 What are the current major issues in energy democracy? How are more technocratic visions of the energy transition or grid modernization modified by the need for democratization? An easier target for a review paper might be to factor the problem through grid modernization, i.e. "applied category theory for grid modernization" and "grid modernization and energy democracy", since the engineers working on grid modernization might be interested in both subjects, just maybe not all at once? The term "grid modernization" was probably invented to be vague and apolitical, so it fits as a "neutral" intermediate term.
 
