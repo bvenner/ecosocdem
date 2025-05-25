@@ -2,6 +2,12 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../energy-democracy/JTS24"
+		},
+		{
+			"path": "../learnrust"
 		}
 	],
 	"settings": {}
