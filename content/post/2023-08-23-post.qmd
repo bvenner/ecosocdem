@@ -8,7 +8,13 @@ Potential textbook: Measurement Across the Sciences. This focuses on a conceptua
 
 Potential textbook: Handbook of Measuring System Design. Focuses on physical measurement systems. Does include sections on systems thinking and life cycles. Includes several articles from Finkelstein on philosophy of measurement that might be interesting.
 
-Potential textbook: Measurement Theory and Practice. By D. J. Hand. Develops a "pragmatic" theory of measurement that is "somewhat" related to 
+Potential textbook: Measurement Theory and Practice. By D. J. Hand. Develops a "pragmatic" theory of measurement that is "somewhat" related to the "semiotic" theory.
+
+# Course organization
+
+Going over this on March 25, 2025, it seems like the "phased" approach to introducing concepts will fail. I'm not sure that asking students to wade through lots of theory development without introducing the "simplest" measurement systems first would be the best approach. 
+
+I still like the idea of introducing the notion of grading early in the course and using this as an ongoing example. But would it be possible to introduce something like the measurement of length as an initial example and move towards more sophisticated measuring systems? 
 
 # Introduction
 1. Who am I? Who are you?
@@ -89,9 +95,7 @@ Measurability is a theory about what things can be measured (a measurable proper
 
 ### Representational theory of measurability
 
-## Measurement Systems theory
-
-### Semiotic theory of measurement
+### Semiotic theory of measurability
 
 > Working on the assumption that one of the shared goals of this list discussion is to consider the various ways that mathematical systems of logic might be used to foster more rigorous forms of inquiry in philosophical logic, then we might gain something by looking at Peirce's clarifications of these conceptions in measurement theory--which is largely a matter of applied mathematics. See CP 7.280-312. 
 
